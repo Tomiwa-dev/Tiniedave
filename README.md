@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tiniedave
-- 👀 I’m interested in ...Python, Machine Learning, Pen testing
-- 🌱 I’m currently learning ... Python, Machine Learning
+- 👀 I’m interested in ...Python, Machine Learning, Deep Learning, Automation
+- 🌱 I’m currently learning ... Python, Machine Learning, Deep Learning, Automation
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... adewoletomiwa@gmail.com
 
